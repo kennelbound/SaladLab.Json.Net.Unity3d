@@ -1,0 +1,14 @@
+{
+  "name": "saladlab.json.net.unity3d",
+  "version": "1.0.0",
+  "description": "JsonNet-9.0.1 for Unity3d",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennelbound/SaladLab.Json.Net.Unity3d.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennelbound/SaladLab.Json.Net.Unity3d/issues"
+  },
+  "homepage": "https://github.com/kennelbound/SaladLab.Json.Net.Unity3d#readme"
+}
