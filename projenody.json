@@ -1,1 +1,5 @@
-{"name":"saladlab.json.net.unity3d","assetsFolder":"Assets","targetFolder":"Plugins/saladlab.json.net"}
+{
+  "name": "saladlab.json.net.unity3d",
+  "assetsFolder": "Assets",
+  "targetFolder": "Plugins/saladlab.json.net"
+}
